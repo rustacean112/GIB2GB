@@ -6,8 +6,12 @@ THIS PROGRAM CODED FROM A NOOB GUY! so don't be harsh :)
 Firstly type:
 
     https://github.com/Huso112/GIB2GB.git
-And type theese
-# Nasıl Kullanılır?
+
+And type theese command too:
+
+    cd ~/ GIB2GB && install.sh
+That's it! Tool has successfully installed on your system.
+# How To Use?
 
 First, let's type:
 
@@ -21,7 +25,7 @@ Example:
     310.7
     310.7 GİBs = 333.612 GBs
     [spy@here ~]$
-
+I
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4MTU1NTQsLTY2MjU2NzAyNV19
+eyJoaXN0b3J5IjpbMTY1MDg1MTUwLC02NjI1NjcwMjVdfQ==
 -->
