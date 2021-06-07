@@ -1,32 +1,19 @@
 # GIB2GB
 A tool for calculating GİB to GB  conversation.
 THIS PROGRAM CODED FROM A NOOB GUY! so don't be harsh :)
+
 # How to install ?
-İlk önce:
+Firstly type:
 
-```
-git clone https://github.com/Huso112/dprmsrg.git
-
-```
-
-komutunu giriyoruz.
-
-İkinci olarak:
-
-```
-cd ~/dprmsrg && sh kur.sh
-
-```
-
-komutunu yazıyoruz.
-
+    https://github.com/Huso112/GIB2GB.git
+And type theese
 # Nasıl Kullanılır?
 
 First, let's type:
 
     gib2gb
 
-command. After the command, it will ask a question about GİB you want to calculate. After the input it will automatically
+command. After the command, it will ask a question about GİB you want to calculate. After the input it will automatically calculate.
 Example:
 
     [spy@here ~]$ gib2gb
@@ -36,5 +23,5 @@ Example:
     [spy@here ~]$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MjU2NzAyNV19
+eyJoaXN0b3J5IjpbMjE4MTU1NTQsLTY2MjU2NzAyNV19
 -->
