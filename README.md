@@ -10,6 +10,7 @@ Firstly type:
 And type theese command too:
 
     cd ~/ GIB2GB && install.sh
+    
 That's it! Tool has successfully installed on your system.
 # How To Use?
 
@@ -28,5 +29,5 @@ Example:
 If you wanna help? Open a issue!
 :)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNzA1NDQ2MiwtNjYyNTY3MDI1XX0=
+eyJoaXN0b3J5IjpbLTE1ODQ4NTA3NzIsLTY2MjU2NzAyNV19
 -->
