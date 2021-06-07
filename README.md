@@ -25,7 +25,8 @@ Example:
     310.7
     310.7 GİBs = 333.612 GBs
     [spy@here ~]$
-I
+If you wanna help? Open a issue!
+:)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDg1MTUwLC02NjI1NjcwMjVdfQ==
+eyJoaXN0b3J5IjpbMTYzNzA1NDQ2MiwtNjYyNTY3MDI1XX0=
 -->
