@@ -1,5 +1,6 @@
 # GIB2GB
 A tool for calculating GİB to GB  conversation.
+
 THIS PROGRAM CODED FROM A NOOB GUY! so don't be harsh :)
 
 # How to install ?
@@ -29,5 +30,5 @@ Example:
 If you wanna help? Open a issue!
 :)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQ4NTA3NzIsLTY2MjU2NzAyNV19
+eyJoaXN0b3J5IjpbMTgyOTQxNTcwNiwtNjYyNTY3MDI1XX0=
 -->
