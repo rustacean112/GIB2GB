@@ -23,10 +23,11 @@ komutunu yazıyoruz.
 # Nasıl Kullanılır?
 
 First, let's type:
-dp
-komutunu yazalım. Sonra da sizden bir il ismi isteyecektir. Eğer iliniz varsa ilinizin sorgulama anına kadarki olan bütün kayıtları çıkar ama sorgulamayı yaptığınız il o anda listede yoksa boş bir mesaj alacaksınız.
 
-Eğer takıldığınız bir yer olursa sorun başlığı açarsınız.
+    gib2gb
+
+command. After the command, it will ask a question about GİB you want to calculate.
+E
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTk4MjIzMjZdfQ==
+eyJoaXN0b3J5IjpbLTQ1NjY0MDMyMl19
 -->
