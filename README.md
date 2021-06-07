@@ -10,7 +10,7 @@ Firstly type:
 
 And type theese command too:
 
-    cd ~/ GIB2GB && install.sh
+    cd ~/ GIB2GB && Install.sh
     
 That's it! Tool has successfully installed on your system.
 # How To Use?
