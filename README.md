@@ -6,11 +6,11 @@ THIS PROGRAM CODED FROM A NOOB GUY! so don't be harsh :)
 # How to install ?
 Firstly type:
 
-    https://github.com/Huso112/GIB2GB.git
+    git clone https://github.com/Huso112/GIB2GB.git
 
 And type theese command too:
 
-    cd ~/ GIB2GB && Install.sh
+    cd ~/ GIB2GB && sh Install.sh
     
 That's it! Tool has successfully installed on your system.
 # How To Use?
