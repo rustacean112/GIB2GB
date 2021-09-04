@@ -19,7 +19,7 @@ Let's type:
 
     gib2gb <Nuber you wanted to convert gib to gib>
 
-command. After the command, it will ask a question about GİB you want to calculate. After the input it will automatically calculate.
+command. After the command, it will automatically calculate.
 Example:
 
     [spy@here ~]$ gib2gb 310.7
