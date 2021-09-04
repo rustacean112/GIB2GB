@@ -22,9 +22,7 @@ First, let's type:
 command. After the command, it will ask a question about GİB you want to calculate. After the input it will automatically calculate.
 Example:
 
-    [spy@here ~]$ gib2gb
-    how many GİBs
-    310.7
+    [spy@here ~]$ gib2gb 310.7
     310.7 GİBs = 333.612 GBs
     [spy@here ~]$
 If you wanna help? Open a issue!
