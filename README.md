@@ -15,9 +15,9 @@ And type theese command too:
 That's it! Tool has successfully installed on your system.
 # How To Use?
 
-First, let's type:
+Let's type:
 
-    gib2gb
+    gib2gb <Nuber you wanted to convert gib to gib>
 
 command. After the command, it will ask a question about GİB you want to calculate. After the input it will automatically calculate.
 Example:
